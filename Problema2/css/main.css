@@ -1,0 +1,21 @@
+/* Escribe tu css aqui */
+
+.amarillo{
+	background-color: #ffff00;
+	height: 100px;
+	width: 200px;
+	float: left;
+	padding: 10px;
+	margin:20px;
+}
+.rojo{
+	background-color: #ff0000;
+    height: 100px;
+    width: 200px;
+    float: left;
+    padding: 10px;
+    margin:20px;
+}
+
+
+

@@ -1,0 +1,15 @@
+.amarillo {
+       background-color: #ffff00;
+       height: 200px;
+       width: 300px;
+       padding-left: 20px;
+}
+.rojo{
+	background-color: #ff0000;
+    height:200px;
+    width: 300px;
+    padding-left: 20px;
+}
+div{
+	font-size:20px;
+}

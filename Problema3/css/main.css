@@ -1,0 +1,29 @@
+/* Escribe tu css aqui */
+
+.amarillo{
+	background-color: #ffff00;
+	height: 50px;
+	width:  85px;
+	float: left;
+	margin:20px;
+}
+.rojo{
+	background-color: #ff0000;
+    height: 50px;
+    width: 35px;
+    float: left;
+    margin:20px;
+}
+p{
+	text-align: center;
+}
+.yellow{
+	background-color: #ffff00;
+	height: 50px;
+	width:  200px;
+	float: left;
+	margin:20px;
+}
+}
+
+
